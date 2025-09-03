@@ -34,11 +34,9 @@
 
 - 📊 **[Analyse des causes de démission – TechNova Partners](https://github.com/LyAbdourahmane/Finding-the-reasons-for-resignation-at-Technova-Partners)**  
   Modèle de **classification supervisée** (LogReg, Random Forest, Gradient Boosting) avec gestion du déséquilibre (**SMOTETomek**) et explicabilité via **SHAP**.  
-  👉 Objectif : prédire les départs d’employés et proposer des recommandations RH.
 
 - ⚡ **[Prédiction Consommation & CO₂ – Ville de Seattle](https://github.com/LyAbdourahmane/ml-api-deployment)**  
   **Random Forest, XGBoost** pour prédiction énergétique & CO₂ + déploiement via **FastAPI + Docker** avec interface **Gradio**.  
-  👉 Objectif : éviter les relevés coûteux et fournir un service web opérationnel.
 
 - 🛒 **[Segmentation Clients – Olist](https://github.com/LyAbdourahmane/olist-customer-segmentation)**  
   **Clustering KMeans & analyse RFM** pour aider au ciblage marketing.
