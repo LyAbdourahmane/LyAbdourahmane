@@ -5,7 +5,7 @@
 
 <!-- Typing Slogan -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36D1DC&center=true&vCenter=true&width=800&lines=Data+Scientist+(Bac%2B5)+en+recherche+d'alternance;Data+Scientist+%7C+Machine+Learning+Engineer;Turning+Data+into+Business+Impact;Machine+Learning+%7C+Explainability+%7C+Deployment;Prédiction+%7C+Explicabilité+%7C+API+ML;Python+%7C+Scikit-Learn+%7C+FastAPI+%7C+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36D1DC&center=true&vCenter=true&width=800&lines=Data+Scientist+(Bac%2B5)+en+recherche+d%27alternance;Data+Scientist+%7C+Machine+Learning+Engineer;Turning+Data+into+Business+Impact;Machine+Learning+%7C+Explainability+%7C+Deployment;Prediction+%7C+Explainability+%7C+API+ML;Python+%7C+Scikit-Learn+%7C+FastAPI+%7C+Docker" alt="Typing SVG" />
 </p>
 
 # 👋 Salut, moi c'est Abdourahamane
