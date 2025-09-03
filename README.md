@@ -46,7 +46,7 @@
 
 ---
 
-## 🏆 Certifications & Formation
+## 🏆 Certifications & Formations
 
 - 🎓 Diplôme **Expert en Ingénierie et Science des Données** (RNCP Niveau 7 – Bac+5) – *OpenClassrooms*  
 - 🎓 Diplôme de **Licence en Chimie Environnementale** (Bac+3) – *Université Gamal Abdel Nasser de Conakry*  
