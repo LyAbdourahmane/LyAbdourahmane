@@ -29,7 +29,6 @@
 - **Outils & Collaboration** : **Jupyter**, **VSCode**, **Git/GitHub**, **Pytest** (tests unitaires/fonctionnels), **Méthodologies Agile**
 
 ---
----
 
 ## 🏆 Certifications & Formations
 
