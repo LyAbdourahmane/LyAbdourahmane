@@ -5,8 +5,9 @@
 
 <!-- Typing Slogan -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36D1DC&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+Machine+Learning+Engineer;IA+Générative+%7C+RAG+%7C+LLMs;MLOps+%7C+API+ML+%7C+CI%2FCD;Je+suis+ouvert+aux+opportunités+professionnelles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36D1DC&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+Machine+Learning+Engineer;IA+G%C3%A9n%C3%A9rative+%7C+RAG+%7C+LLMs;MLOps+%7C+API+ML+%7C+CI%2FCD;Ouvert+aux+opportunit%C3%A9s+professionnelles" />
 </p>
+
 
 # 👋 Salut, moi c'est Abdourahamane
 
