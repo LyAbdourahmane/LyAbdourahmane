@@ -5,50 +5,58 @@
 
 <!-- Typing Slogan -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36D1DC&center=true&vCenter=true&width=800&lines=Data+Scientist+(Bac%2B5)+en+recherche+d%27alternance;Data+Scientist+%7C+Machine+Learning+Engineer;Turning+Data+into+Business+Impact;Machine+Learning+%7C+Explainability+%7C+Deployment;Prediction+%7C+Explainability+%7C+API+ML;Python+%7C+Scikit-Learn+%7C+FastAPI+%7C+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36D1DC&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+Machine+Learning+Engineer;IA+Générative+%7C+RAG+%7C+LLMs;MLOps+%7C+API+ML+%7C+CI%2FCD;Je+suis+ouvert+aux+opportunités+professionnelles" />
 </p>
 
 # 👋 Salut, moi c'est Abdourahamane
 
-🎯 **Data Scientist Bac+5 (RNCP Niveau 7) – En recherche d’alternance**  
-💡 Passionné par le **Machine Learning**, l’**analyse de données**, et le **déploiement de modèles ML en production**.  
-📊 Mon objectif : **transformer les données en leviers décisionnels** grâce à des modèles explicables et robustes.
+🎓 **Data Scientist / Machine Learning Engineer diplômé**  
+🚀 Spécialisé en **IA Générative**, **RAG**, **LLMs**, **MLOps**, **Computer Vision** et **NLP**  
+💼 **Ouvert aux opportunités professionnelles** (CDI, CDD, mission freelance, consulting)  
+📍 Basé en France – disponible en télétravail ou hybride  
+
+Je conçois des solutions IA complètes :  
+**de l’analyse métier → à l’architecture → au modèle → au déploiement → au monitoring.**
 
 ---
 
-## 🔧 Compétences clés
+# 🔧 Compétences techniques
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,docker,postgres,tensorflow,pytorch" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,git,docker,postgres,tensorflow,pytorch,fastapi" /><br/>
 </p>
 
-- **Machine Learning & Deep Learning** : **Scikit-learn**, **Imbalanced-learn**, **XGBoost**, **Random Forest**, **Gradient Boosting**, **SHAP** (explicabilité), **NLP**, **PyTorch**, **TensorFlow**  
-- **Data Analysis & NLP** : **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **EDA** (Chi², ANOVA, corrélations), **Feature Engineering**, **spaCy**, **NLTK**, vectorisation (**TF-IDF, Word2Vec, BERT, USE**)  
-- **Développement & Déploiement** : **Python**, **FastAPI** (APIs REST), **Gradio** (UI ML), **Docker** (containerisation), **CI/CD** (GitHub Actions), **Poetry** (dépendances)  
-- **Bases de données** : **SQL (PostgreSQL)**, **SQLAlchemy** (ORM, migrations), modélisation relationnelle  
-- **Outils & Collaboration** : **Jupyter**, **VSCode**, **Git/GitHub**, **Pytest** (tests unitaires/fonctionnels), **Méthodologies Agile**
+### **IA Générative & Agents**
+RAG • LangChain • LLMs • Embeddings • FAISS • OCR • RAGAS • SQL Tooling • Make & N8N
+
+### **Machine Learning**
+Scikit-learn • XGBoost • LightGBM • SHAP • Feature Engineering • Optimisation
+
+### **Deep Learning**
+CNN • ResNet • LSTM • GRU • Semi-supervised learning • TensorFlow • Keras
+
+### **MLOps & Ingénierie**
+MLflow • Docker • GitHub Actions • CI/CD • FastAPI • Tests unitaires • Monitoring
+
+### **Data Engineering**
+ETL • Ingestion API • SQL • Pipelines • Nettoyage OCR
+
+### **NLP**
+TF-IDF • Word2Vec • GloVe • BERT • Classification multi-label • Génération de texte
 
 ---
 
-## 🏆 Certifications & Formations
+# 📚 Formations & Certifications
 
-- 🎓 Diplôme **Expert en Ingénierie et Science des Données** (RNCP Niveau 7 – Bac+5) – *OpenClassrooms*  
-- 🎓 Diplôme de **Licence en Chimie Environnementale** (Bac+3) – *Université Gamal Abdel Nasser de Conakry*  
-- 📜 Formation **Machine Learning & Deep Learning** (*Scikit-learn, PyTorch*)  
-- 📜 Formation **Méthodologies Agile & Développement collaboratif** (*Git/GitHub*)  
-
----
-
-## 📊 Stats GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LyAbdourahmane&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyAbdourahmane&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+- 🎓 **Master of Sciences AI for Business**
+- 🎓 **Expert en Ingénierie et Science des Données** (RNCP Niveau 7 – Bac+5)  
+- 🎓 Licence en Chimie Environnementale  
+- 📜 Machine Learning & Deep Learning  
+- 📜 Méthodologies Agile & Git/GitHub  
 
 ---
 
-## 🌍 Me contacter
+# 🌍 Me contacter
 
 <p align="center">
   <a href="mailto:lyabdourahamane66@gmail.com">
